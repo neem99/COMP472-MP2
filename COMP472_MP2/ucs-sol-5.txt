@@ -1,0 +1,8 @@
+No solution found
+
+Runtime 1.045042400015518 seconds
+
+Solution path length: 0 moves
+
+Search path length: 354 states
+
