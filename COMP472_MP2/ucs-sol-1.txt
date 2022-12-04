@@ -1,4 +1,4 @@
-Runtime 0.0011479000095278025 seconds
+Runtime 0.0009558000601828098 seconds
 
 Solution path length: 3 moves
 
